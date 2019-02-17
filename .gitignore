@@ -40,3 +40,4 @@ playground.xcworkspace
 # Package.resolved
 .build/
 Magic 8 Ball/.DS_Store
+.DS_Store
